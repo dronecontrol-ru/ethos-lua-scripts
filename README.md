@@ -2,7 +2,7 @@
 
 ![Attidude indicator](./img/atty.png)
 
-1. Copy folder **scripts/af-atty** to folder **sdcard://scripts/** on sd-card.
+1. Copy folder **scripts/af-atty** to transmitter sd-card.
 1. Discovery telemetry sensors.
 1. Click on screen and add new screen/widget. Select **AF-Atty**.
 1. If you use TBS/ELRS - enjoy.
